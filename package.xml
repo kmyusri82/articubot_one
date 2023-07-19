@@ -4,7 +4,7 @@
   <name>articubot_one</name>
   <version>0.0.0</version>
   <description>TODO: Package description</description>
-  <maintainer email="kmyusri82@gmail.com">MKu Mohammad Yusri</maintainer>
+  <maintainer email="kmyusri82@gmail.com">Ku Mohammad Yusri</maintainer>
   <license>TODO: License declaration</license>
 
   <buildtool_depend>ament_cmake</buildtool_depend>
